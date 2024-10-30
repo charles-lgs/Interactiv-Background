@@ -1,6 +1,6 @@
 # Interactiv Background
 
-![Sreenshot](sreenshot/interactiv-background.png)
+![Sreenshot](/src/screenshot/interactiv-background.png)
 
 ## Available Scripts
 
